@@ -1,0 +1,6 @@
+Wed Sep 15 13:25:59 2021
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Wed Sep 15 13:25:59 2021
+No ARsim registration found!
+
